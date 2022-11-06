@@ -1,0 +1,136 @@
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\bin\Debug\net6.0\appsettings.json
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\bin\Debug\net6.0\TP08.staticwebassets.runtime.json
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\bin\Debug\net6.0\TP08.exe
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\bin\Debug\net6.0\TP08.deps.json
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\bin\Debug\net6.0\TP08.runtimeconfig.json
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\bin\Debug\net6.0\TP08.dll
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\bin\Debug\net6.0\TP08.pdb
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\bin\Debug\net6.0\Dapper.dll
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\obj\Debug\net6.0\TP08.csproj.AssemblyReference.cache
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\obj\Debug\net6.0\TP08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\obj\Debug\net6.0\TP08.AssemblyInfoInputs.cache
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\obj\Debug\net6.0\TP08.AssemblyInfo.cs
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\obj\Debug\net6.0\TP08.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\obj\Debug\net6.0\TP08.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\obj\Debug\net6.0\TP08.RazorAssemblyInfo.cache
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\obj\Debug\net6.0\TP08.RazorAssemblyInfo.cs
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\obj\Debug\net6.0\scopedcss\bundle\TP08.styles.css
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\obj\Debug\net6.0\scopedcss\projectbundle\TP08.bundle.scp.css
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\obj\Debug\net6.0\TP08.csproj.CopyComplete
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\obj\Debug\net6.0\TP08.dll
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\obj\Debug\net6.0\refint\TP08.dll
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\obj\Debug\net6.0\TP08.pdb
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\obj\Debug\net6.0\TP08.genruntimeconfig.cache
+C:\Users\Ivo\OneDrive\Escritorio\TP08-main\obj\Debug\net6.0\ref\TP08.dll
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\bin\Debug\net6.0\appsettings.json
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\bin\Debug\net6.0\TP08.staticwebassets.runtime.json
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\bin\Debug\net6.0\TP08.exe
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\bin\Debug\net6.0\TP08.deps.json
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\bin\Debug\net6.0\TP08.runtimeconfig.json
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\bin\Debug\net6.0\TP08.dll
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\bin\Debug\net6.0\TP08.pdb
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\bin\Debug\net6.0\Dapper.dll
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\obj\Debug\net6.0\TP08.csproj.AssemblyReference.cache
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\obj\Debug\net6.0\TP08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\obj\Debug\net6.0\TP08.AssemblyInfoInputs.cache
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\obj\Debug\net6.0\TP08.AssemblyInfo.cs
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\obj\Debug\net6.0\TP08.csproj.CoreCompileInputs.cache
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\obj\Debug\net6.0\TP08.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\obj\Debug\net6.0\TP08.RazorAssemblyInfo.cache
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\obj\Debug\net6.0\TP08.RazorAssemblyInfo.cs
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\obj\Debug\net6.0\scopedcss\bundle\TP08.styles.css
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\obj\Debug\net6.0\scopedcss\projectbundle\TP08.bundle.scp.css
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\obj\Debug\net6.0\TP08.csproj.CopyComplete
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\obj\Debug\net6.0\TP08.dll
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\obj\Debug\net6.0\refint\TP08.dll
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\obj\Debug\net6.0\TP08.pdb
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\obj\Debug\net6.0\TP08.genruntimeconfig.cache
+C:\Users\franr\Desktop\temp\TP08-main\TP08-main\obj\Debug\net6.0\ref\TP08.dll
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\bin\Debug\net6.0\appsettings.json
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\bin\Debug\net6.0\TP08.staticwebassets.runtime.json
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\bin\Debug\net6.0\TP08.exe
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\bin\Debug\net6.0\TP08.deps.json
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\bin\Debug\net6.0\TP08.runtimeconfig.json
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\bin\Debug\net6.0\TP08.dll
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\bin\Debug\net6.0\TP08.pdb
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\bin\Debug\net6.0\Dapper.dll
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\obj\Debug\net6.0\TP08.csproj.AssemblyReference.cache
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\obj\Debug\net6.0\TP08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\obj\Debug\net6.0\TP08.AssemblyInfoInputs.cache
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\obj\Debug\net6.0\TP08.AssemblyInfo.cs
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\obj\Debug\net6.0\TP08.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\obj\Debug\net6.0\TP08.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\obj\Debug\net6.0\TP08.RazorAssemblyInfo.cache
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\obj\Debug\net6.0\TP08.RazorAssemblyInfo.cs
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\obj\Debug\net6.0\scopedcss\bundle\TP08.styles.css
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\obj\Debug\net6.0\scopedcss\projectbundle\TP08.bundle.scp.css
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\obj\Debug\net6.0\TP08.csproj.CopyComplete
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\obj\Debug\net6.0\TP08.dll
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\obj\Debug\net6.0\refint\TP08.dll
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\obj\Debug\net6.0\TP08.pdb
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\obj\Debug\net6.0\TP08.genruntimeconfig.cache
+C:\Users\Ivo\OneDrive\Escritorio\Nueva carpeta\TP08-main\obj\Debug\net6.0\ref\TP08.dll
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\bin\Debug\net6.0\appsettings.json
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\bin\Debug\net6.0\TP08.staticwebassets.runtime.json
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\bin\Debug\net6.0\TP08.exe
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\bin\Debug\net6.0\TP08.deps.json
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\bin\Debug\net6.0\TP08.runtimeconfig.json
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\bin\Debug\net6.0\TP08.dll
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\bin\Debug\net6.0\TP08.pdb
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\bin\Debug\net6.0\Dapper.dll
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\obj\Debug\net6.0\TP08.csproj.AssemblyReference.cache
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\obj\Debug\net6.0\TP08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\obj\Debug\net6.0\TP08.AssemblyInfoInputs.cache
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\obj\Debug\net6.0\TP08.AssemblyInfo.cs
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\obj\Debug\net6.0\TP08.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\obj\Debug\net6.0\TP08.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\obj\Debug\net6.0\TP08.RazorAssemblyInfo.cache
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\obj\Debug\net6.0\TP08.RazorAssemblyInfo.cs
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\obj\Debug\net6.0\scopedcss\bundle\TP08.styles.css
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\obj\Debug\net6.0\scopedcss\projectbundle\TP08.bundle.scp.css
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\obj\Debug\net6.0\TP08.csproj.CopyComplete
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\obj\Debug\net6.0\TP08.dll
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\obj\Debug\net6.0\refint\TP08.dll
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\obj\Debug\net6.0\TP08.pdb
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\obj\Debug\net6.0\TP08.genruntimeconfig.cache
+C:\Users\Ivo\OneDrive\Escritorio\TP08ULTIMO\obj\Debug\net6.0\ref\TP08.dll
