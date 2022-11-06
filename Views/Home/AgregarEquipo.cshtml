@@ -1,0 +1,29 @@
+@{
+    ViewData["Title"] = "Inicio";
+}
+  
+  <br>
+    <br>
+      <br>
+        <center>
+          
+            <div class = "container" style="height:100px;width:1000px;">
+              <form action='@Url.Action("GuardarEquipo","Home", new {IdLiga = ViewBag.IdL})' method="POST" enctype="multipart/form-data"> 
+              <div class="col-md-6">
+                <label for="validationDefault01">Nombre</label>
+                <input type="text" class="form-control" id="Nombre" placeholder="Nombre" name="Nombre" required>
+              </div>
+              <div class="mb-3">
+                <label for="validationDefault02">Escudo</label>
+                <input type="text" class="form-control" id="Escudo" placeholder="Escudo" name="Escudo">
+              </div>
+              <br>
+                <button class="btn btn-primary btn-sm mt-4 ml-4" type="submit">Guardar Equipo</button>
+              </br>
+              </form>
+              <a class="btn btn-primary btn-sm mt-4 ml-4" href='@Url.Action("FinalizarLiga","Home", new {IdLiga = ViewBag.IdL})'>Finalizar Liga</a>
+            </div>
+         </center>
+      </br>
+    </br>
+  </br>

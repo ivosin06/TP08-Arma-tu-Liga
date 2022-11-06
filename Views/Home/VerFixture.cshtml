@@ -1,0 +1,55 @@
+@{
+  foreach (Partido partido in ViewBag.Partidos)
+  {
+    
+    <div class="card text-center">
+      <div class="card-header">
+        @partido.FechaPartido
+      </div>
+      <div class="row row-cols-1 row-cols-md-3">
+      <div class="card-body">
+        <div class="col mb-4">
+          <div class="card"style="width: 18rem;">
+            <img src="@partido.EquipoLocal.Escudo" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">@partido.EquipoLocal.Nombre</h5>
+            </div>
+          </div>
+        </div>
+      
+      </div>
+ 
+      <center>     
+        <div class="card-body">
+          <div class="col mb-4">
+            <div class="card"style="width: 6rem; ">
+              <div class="card-body">
+                <h5 class="card-title">@partido.GolesEquipoLocal - @partido.GolesEquipoVisitante</h5>
+              </div>
+            </div>
+          </div>
+        </div>   
+      
+        <center><a href='@Url.Action("ModificarResultado","Home", new {IdLiga = @ViewBag.IdLiga, IdEquipoLocal = @partido.EquipoLocal.IdEquipo, IdEquipoVisitante = @partido.EquipoVisitante.IdEquipo})' class="btn btn-secondary">Editar Resultado</a></center>
+      </center>
+
+      <div class="card-body">
+        <div class="col mb-4">
+          <div class="card"style="width: 18rem; float: right;">
+            <img src="@partido.EquipoVisitante.Escudo" class="card-img-top" alt="...">
+            <div class="card-body">
+            <h5 class="card-title">@partido.EquipoVisitante.Nombre</h5>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    </div>
+    </div>
+    <br>
+    </br>
+  } 
+  
+}  
+
+

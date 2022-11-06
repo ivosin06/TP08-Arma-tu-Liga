@@ -1,0 +1,32 @@
+@{
+    ViewData["Title"] = "Inicio";
+}
+<div>
+    <div class="text" style="font-size: 50px" div>
+    <center><img src="https://images.cooltext.com/5626540.png" alt=""></center>
+</div>
+    
+
+<br>
+    <div class="row row-cols-1 row-cols-md-3">
+        @{foreach (Equipo e in ViewBag.ListaEquipos)
+            {
+                <center>
+                <div class="col mb-4">
+                    <div class="card" style="width: 18rem; height:22rem;">
+                    <img src="@e.Escudo" class="card-img-top" width="200px" height="300px"  alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">@e.Nombre</h5>
+                        <p class="card-text"></p>
+                    </div>
+                    </div>
+                </div>
+                </center>
+            }
+        }
+    </div>
+</br>
+
+<center><a href='@Url.Action("VerFixture","Home", new {IdLiga = @ViewBag.Liga.IdLiga})' class="btn btn-secondary">Ver Fixture</a></center>
+<br>
+<center><a href='@Url.Action("BorrarLiga","Home", new {IdLiga = @ViewBag.Liga.IdLiga})' class="btn btn-secondary">Borrar Liga</a></center>

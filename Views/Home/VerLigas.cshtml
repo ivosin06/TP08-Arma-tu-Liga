@@ -1,0 +1,19 @@
+@{
+    ViewData["Title"] = "Inicio";
+}
+
+@{foreach (Liga l in ViewBag.ListaL)
+    {
+        <center>
+            <div class="col mb-2">
+            <div class="card" style="width: 15rem;">
+            <img src="@l.Logo" class="card-img-top" alt="...">
+            <div class="card-body">
+            <h5 class="card-title">@l.Nombre</h5>
+            <a href='@Url.Action("VerDetalleLiga","Home", new {IdLiga = @l.IdLiga})' class="btn btn-secondary">Ver</a>
+            </div>
+            </div>
+            </div>
+        </center>
+    }
+}

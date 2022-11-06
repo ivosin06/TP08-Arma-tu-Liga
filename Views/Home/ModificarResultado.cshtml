@@ -1,0 +1,27 @@
+  <br>
+    <br>
+      <br>
+        <center>
+          
+            <div class = "container" style="height:100px;width:1000px;">
+              <form action='@Url.Action("EditarResultado","Home")' method="POST" enctype="multipart/form-data"> 
+              <div class="col-md-6">
+                <label for="validationDefault01">Goles Del Equipo Local:</label>
+                <input type="text" class="form-control" id="GolesEquipoLocal" placeholder="GolesEquipoLocal" name="GolesEquipoLocal" required>
+              </div>
+                <div class="col-md-6">
+                    <label for="validationDefault01">Goles Del Equipo Visitante:</label>
+                    <input type="text" class="form-control" id="GolesEquipoVisitante" placeholder="GolesEquipoVisitante" name="GolesEquipoVisitante" required>
+                </div>
+                <input type="hidden" name="IdLiga" value="@ViewBag.IdLiga">
+                <input type="hidden" name="IdEquipoLocal" value="@ViewBag.IdEquipoLocal">
+                <input type="hidden" name="IdEquipoVisitante" value="@ViewBag.IdEquipoVisitante"> 
+              <br>
+                <button class="btn btn-primary btn-sm mt-4 ml-4" type="submit">Guardar</button>
+              </br>
+              </form>
+            </div>
+         </center>
+      </br>
+    </br>
+  </br>
